@@ -1,11 +1,11 @@
 @import url(sanitize.css);
 h1 {
-    font-size: 30px;
+    font-size: 60px;
     margin: auto;
 }
 .control {
-    background-color: rgba(191, 215, 216, 0.726);
-    width: 600px;
+    background-color: white;
+    width: 950px;
     margin: 10px auto;
     border: 1px solid #111010;
     padding: 30px;
@@ -18,7 +18,7 @@ h1 {
          local("Yu Gothic");
 }
 .form-group {
-    background-color: rgba(191, 215, 216, 0.726);
+    background-color: whitesomoke;
     width: 600px;
     margin: 10px auto;
     border: 1px solid #111010;
@@ -28,8 +28,8 @@ h1 {
     text-align: center;
 }
 .content {
-    background-color: rgba(191, 215, 216, 0.726);
-    width: 600px;
+    background-color: white;
+    width: 950px;
     margin: 10px auto;
     border: 1px solid #111010;
     padding: 30px;
