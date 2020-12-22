@@ -4,13 +4,13 @@ h1 {
     margin: auto;
 }
 .control {
-    background-color: white;
+    background-color: whitesmoke;
     width: 950px;
     margin: 10px auto;
     border: 1px solid #111010;
     padding: 30px;
     font-family: "Yu Gothic", "游ゴシック", "YuGothic", "游ゴシック体";
-    font-size: 18px;
+    font-size: 40px;
 }
 @font-face {
     font-family: "YuGothic M";
@@ -18,13 +18,13 @@ h1 {
          local("Yu Gothic");
 }
 .form-group {
-    background-color: whitesomoke;
-    width: 600px;
+    background-color: white;
+    width: 950px;
     margin: 10px auto;
     border: 1px solid #111010;
     padding: 30px;
     font-family: "Yu Gothic", "游ゴシック", "YuGothic", "游ゴシック体";
-    font-size: 24px;
+    font-size: 40px;
     text-align: center;
 }
 .content {
@@ -34,9 +34,9 @@ h1 {
     border: 1px solid #111010;
     padding: 30px;
     font-family: "Yu Gothic", "游ゴシック", "YuGothic", "游ゴシック体";
-    font-size: 20px;
+    font-size: 40px;
 }
 .id {
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
 }
