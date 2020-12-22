@@ -1,12 +1,12 @@
 @import url(sanitize.css);
 h1 {
-    font-size: 30px;
+    font-size: 50px;
     margin: auto;
     line-height: 60px;
 }
 .content {
     background-color: white;
-    width: 600px;
+    width: 950px;
     margin: 10px auto;
     border: 1px solid #111010;
     padding: 30px;
@@ -15,16 +15,16 @@ h1 {
     line-height: 40px;
 }
 h2 {
-    font-size: 20px;
+    font-size: 40px;
 }
 .id {
     text-align: center;
 }
 .form-group {
-    width: 600px;
+    width: 950px;
     margin: 0 auto;
     line-height: 30px;
-    font-size: 22px;
+    font-size: 30px;
     margin-top: 60px;
 }
 .required {
@@ -47,5 +47,5 @@ h2 {
          local("Yu Gothic");
   }
 body {
-    background-color: gainsboro;
+    background-color: whitesmoke;
 } 
