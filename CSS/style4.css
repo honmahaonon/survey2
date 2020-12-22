@@ -1,6 +1,6 @@
 @import url(sanitize.css);
 h1 {
-    font-size: 50px;
+    font-size: 60px;
     margin: auto;
     line-height: 60px;
 }
@@ -11,11 +11,11 @@ h1 {
     border: 1px solid #111010;
     padding: 30px;
     font-family: "Yu Gothic", "游ゴシック", "YuGothic", "游ゴシック体";
-    font-size: 20px;
+    font-size: 40px;
     line-height: 40px;
 }
 h2 {
-    font-size: 40px;
+    font-size: 50px;
 }
 .id {
     text-align: center;
@@ -24,7 +24,7 @@ h2 {
     width: 950px;
     margin: 0 auto;
     line-height: 30px;
-    font-size: 30px;
+    font-size: 40px;
     margin-top: 60px;
 }
 .required {
@@ -49,3 +49,6 @@ h2 {
 body {
     background-color: whitesmoke;
 } 
+.btn {
+    font-size: 30px;
+}
