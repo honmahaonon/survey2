@@ -7,7 +7,7 @@ h2 {
   font-size: 80px;
 }
 .content {
-  background-color: white;
+  background-color: whitesmoke;
   width: 950px;
   margin: 10px auto;
   border: 1px solid #111010;
@@ -19,9 +19,8 @@ h2 {
   font-family: "YuGothic M";
   src: local("Yu Gothic Medium"),
        local("Yu Gothic");
-}
 .btn {
-  background-color: whitesmoke;
+  background-color: white;
   color: black;
   padding: 20px;
   text-align: center;
